@@ -48,29 +48,10 @@ This tutorial uses two simple, yet highly illustrative, tables to demonstrate th
 Customers Table 🧑‍🤝‍🧑
 This table elegantly stores fundamental information about our valued customers.
 
-Column Name
-
-Data Type
-
-Description
-
-CustomerID
-
-INT
-
-Primary Key, a unique identifier for each customer
-
-Name
-
-VARCHAR(100)
-
-The full name of the customer
-
-Email
-
-VARCHAR(100)
-
-The email address of the customer
+Column Name   Data Type     Description 
+CustomerID     INT          Primary Key, a unique identifier for each customer
+Name       VARCHAR(100)    The full name of the customer
+Email      VARCHAR(100)    The email address of the customer
 
 Sample Data:
 
