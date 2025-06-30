@@ -1,4 +1,4 @@
-SQL Joins Tutorial
+#SQL Joins Tutorial
 This repository provides a comprehensive guide and SQL code to understand and practice various SQL join types: INNER JOIN, LEFT JOIN, RIGHT JOIN, and FULL JOIN.
 
 Objective
